@@ -1,5 +1,19 @@
 
 body {
-	background-color: skyblue;
+	background-color: ghostwhite;
 }
 
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+	color: tomato;
+
+}
